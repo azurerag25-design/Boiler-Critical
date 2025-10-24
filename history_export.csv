@@ -1,0 +1,76 @@
+﻿parameter_name,sub_parameter_name,param_unit,ts,value,History_Mean_Value,History_Sigma_Value,Design_Value
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,20-04-2023 12:10,140.6,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,20-04-2023 12:20,140.9,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,20-04-2023 12:30,141,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,20-04-2023 12:40,140.6,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,28-05-2023 12:10,136,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,28-05-2023 12:20,135.9,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,28-05-2023 12:30,137,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,28-05-2023 12:40,138,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,17-01-2024 12:10,125,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,17-01-2024 12:20,125,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,17-01-2024 12:30,126,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,17-01-2024 12:40,125,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,19-07-2024 12:10,132,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,19-07-2024 12:20,132,133.8666667,1.93768997,135
+APH Outlet temperature,Flue Gas Temperature Profile,DEGC,19-07-2024 12:30,133,133.8666667,1.93768997,135
+Bed Height,Flue Gas Temperature Profile,MMWC,20-04-2023 12:10,910,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,20-04-2023 12:20,885.6,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,20-04-2023 12:30,876,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,20-04-2023 12:40,881,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,28-05-2023 12:10,897,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,28-05-2023 12:20,916,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,28-05-2023 12:30,916,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,28-05-2023 12:40,929,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,17-01-2024 12:10,889,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,17-01-2024 12:20,897,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,17-01-2024 12:30,899,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,17-01-2024 12:40,902,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,19-07-2024 12:10,861,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,19-07-2024 12:20,859,892.9733333,12.72796353,920
+Bed Height,Flue Gas Temperature Profile,MMWC,19-07-2024 12:30,877,892.9733333,12.72796353,920
+Bed Temperature,Flue Gas Temperature Profile,DEGC,20-04-2023 12:10,887,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,20-04-2023 12:20,882,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,20-04-2023 12:30,885,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,20-04-2023 12:40,882,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,28-05-2023 12:10,886,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,28-05-2023 12:20,883,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,28-05-2023 12:30,881,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,28-05-2023 12:40,881,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,17-01-2024 12:10,897,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,17-01-2024 12:20,896,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,17-01-2024 12:30,902,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,17-01-2024 12:40,902,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,19-07-2024 12:10,898,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,19-07-2024 12:20,886,888.9333333,3.736068896,850
+Bed Temperature,Flue Gas Temperature Profile,DEGC,19-07-2024 12:30,886,888.9333333,3.736068896,850
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,20-04-2023 12:10,527,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,20-04-2023 12:20,522,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,20-04-2023 12:30,528,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,20-04-2023 12:40,527,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,28-05-2023 12:10,523,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,28-05-2023 12:20,524,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,28-05-2023 12:30,520,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,28-05-2023 12:40,524,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,17-01-2024 12:10,523,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,17-01-2024 12:20,524,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,17-01-2024 12:30,524,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,17-01-2024 12:40,524,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,19-07-2024 12:10,520,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,19-07-2024 12:20,518,523.2,2.216312057,515
+SH3 outlet temperature,Water Steam Temperature Profile,DEGC,19-07-2024 12:30,520,523.2,2.216312057,515
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,20-04-2023 12:10,1000.5,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,20-04-2023 12:20,969.5,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,20-04-2023 12:30,962,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,20-04-2023 12:40,972,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,28-05-2023 12:10,1002.5,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,28-05-2023 12:20,1000,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,28-05-2023 12:30,997,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,28-05-2023 12:40,991,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,17-01-2024 12:10,1039.5,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,17-01-2024 12:20,1043.5,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,17-01-2024 12:30,1059,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,17-01-2024 12:40,1055,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,19-07-2024 12:10,999,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,19-07-2024 12:20,988.5,1005.266667,15.22922999,1001
+Screen Inlet Temperature,Flue Gas Temperature Profile,DEGC,19-07-2024 12:30,1000,1005.266667,15.22922999,1001

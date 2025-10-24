@@ -1,0 +1,8 @@
+duckdb
+streamlit
+pandas
+numpy
+polars
+pyarrow
+openpyxl
+matplotlib

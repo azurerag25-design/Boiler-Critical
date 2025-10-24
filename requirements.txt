@@ -5,4 +5,5 @@ numpy
 polars
 pyarrow
 openpyxl
+plotly
 matplotlib

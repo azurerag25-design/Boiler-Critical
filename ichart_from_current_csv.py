@@ -68,7 +68,7 @@ def build_ichart_from_current(csv_path: str, param_name: str, window_minutes: in
     if "ts" in d.columns:
         d["ts"] = _parse_ts_series(d["ts"])
         d = d.dropna(subset=["ts"]).sort_values("ts")
-        x = d["ts"]; xlab = "Time"
+        x = d["ts"]; xlab = f"Time — {window_minutes} min (latest→past window)"
     else:
         # if no timestamp column, reverse so we show oldest->newest
         d = d.iloc[::-1].reset_index(drop=True)
@@ -141,7 +141,7 @@ def build_ichart_from_current(csv_path: str, param_name: str, window_minutes: in
     )
 
     # Bottom-centered parameter label with window note
-    fig.text(0.30, 0.20, f"{param_name} — {window_minutes} min (latest→past window)", ha="center", fontsize=11, color="black")
+    fig.text(0.32, 0.20, f"{param_name}", ha="center", fontsize=11, color="tomato")
 
     if not using_constrained:
         fig.tight_layout(rect=[0.02, 0.06, 0.98, 0.90])

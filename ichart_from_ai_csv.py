@@ -138,7 +138,7 @@ def build_ichart_from_ai(csv_path: str, param_name: str, window_minutes: int):
     )
 
     # Bottom-centered parameter label
-    fig.text(0.15, 0.20, f"{param_name} — {window_minutes} min (latest→future window, AI)", ha="center", fontsize=11, color="black")
+    fig.text(0.25, 0.20, f"{param_name} — {window_minutes} min (latest→future window, AI)", ha="center", fontsize=11, color="black")
 
     if not using_constrained:
         fig.tight_layout(rect=[0.02, 0.06, 0.98, 0.90])

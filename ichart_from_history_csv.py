@@ -113,7 +113,7 @@ def build_ichart_from_history(csv_path: str, param_name: str):
     )
 
     # Bottom-center parameter label (acts as the "title" without overlapping)
-    fig.text(0.25, 0.20, f"{param_name}", ha="center", fontsize=11, color="black")
+    fig.text(0.15, 0.20, f"{param_name}", ha="center", fontsize=11, color="black")
 
     # If constrained layout not available, do a careful final tighten only then
     if not using_constrained:

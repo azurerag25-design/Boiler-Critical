@@ -141,7 +141,7 @@ def build_ichart_from_current(csv_path: str, param_name: str, window_minutes: in
     )
 
     # Bottom-centered parameter label with window note
-    fig.text(0.5, 0.20, f"{param_name} — {window_minutes} min (latest→past window)", ha="center", fontsize=11, color="black")
+    fig.text(0.15, 0.20, f"{param_name} — {window_minutes} min (latest→past window)", ha="center", fontsize=11, color="black")
 
     if not using_constrained:
         fig.tight_layout(rect=[0.02, 0.06, 0.98, 0.90])

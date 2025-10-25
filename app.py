@@ -149,7 +149,7 @@ st.markdown("<div class='pp-center powerplay-sub'>Your intelligent assistant to 
 # --------------------------- Controls / Chart ---------------------------
 PARAM_MAP = {
     "Bed Temperature": "BED TEMPERATURE",
-    "Bed Hight": "BED HEIGHT",
+    "Bed Height": "BED HEIGHT",
     "Screen Inlet Temperature": "SCREEN INLET TEMPERATURE",
     "APH Outlet Temperature": "APH OUTLET TEMPERATURE",
     "SH3 Outlet Temperature": "SH3 OUTLET TEMPERATURE",
@@ -247,3 +247,4 @@ else:
         st.session_state.show_chart = False
         st.session_state.selection = {}
         do_rerun()
+
